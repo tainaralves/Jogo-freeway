@@ -12,7 +12,7 @@ O jogo possui diversas funcionalidades, como:
 * Carros com velocidades diferentes;
 * Interatividade;
 
-Ao longo do jogo, o jogador deve desviar de carros que passam em diferentes velocidades, movimentando o personagem para cima e para baixo. Ao atravessar a rua com sucesso, um ponto é marcado e o jogador ouve um som de comemoração. No caso de colisão, o personagem volta para a posição original.
+Ao longo do jogo, o jogador deve desviar de carros que passam em diferentes velocidades, movimentando o personagem para cima e para baixo. Ao atravessar a rua com sucesso, um ponto é marcado e o jogador ouve um som de comemoração. No caso de colisão, o personagem volta para a posição original e perde um ponto.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
