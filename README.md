@@ -7,15 +7,16 @@ O Freeway é um jogo clássico de arcade onde o jogador controla um personagem q
 ## 🔨 Funcionalidades do projeto
 O jogo possui diversas funcionalidades, como:
 
-Trilha sonora;
-Sons para cada colisão;
-Carros com velocidades diferentes;
-Interatividade.
+* Trilha sonora;
+* Sons para cada colisão;
+* Carros com velocidades diferentes;
+* Interatividade;
+
 Ao longo do jogo, o jogador deve desviar de carros que passam em diferentes velocidades, movimentando o personagem para cima e para baixo. Ao atravessar a rua com sucesso, um ponto é marcado e o jogador ouve um som de comemoração. No caso de colisão, o personagem volta para a posição original.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
 * JavaScript
 
-##Como jogar
+## Como jogar
 Para jogar, basta abrir o arquivo link ao lado em um navegador web e utilizar as setas do teclado para controlar o personagem.
