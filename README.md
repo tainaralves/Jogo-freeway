@@ -20,3 +20,7 @@ Ao longo do jogo, o jogador deve desviar de carros que passam em diferentes velo
 
 ## Como jogar
 Para jogar, basta abrir o arquivo link ao lado em um navegador web e utilizar as setas do teclado para controlar o personagem.
+
+## Feito por:
+
+### Tainara Alves
